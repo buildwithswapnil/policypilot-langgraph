@@ -1,0 +1,43 @@
+# Virtual environment
+.venv/
+
+# Secrets
+.env
+
+# Python-generated files
+__pycache__/
+*.pyc
+
+# macOS-generated files
+.DS_Store
+
+# Generated Chroma vector database
+chroma_db/
+
+# Employee datasets, including synthetic privacy-test data
+data/employees/raw/
+data/employees/processed/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache and test artifacts
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+*.py[cod]
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Local editor files
+.vscode/

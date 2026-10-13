@@ -1,0 +1,2 @@
+
+{'messages': [HumanMessage(content='policy', additional_kwargs={}, response_metadata={}, id='12c65ae7-7c2e-41b0-a609-06d67bc95731'), AIMessage(content='', additional_kwargs={}, response_metadata={'model': 'llama3.2:3b'...'output_tokens': 27, 'total_tokens': 447}), ToolMessage(content='{"query": "HR policy question", "minimum_relevance": 0.3, "match...id='dcc72b28-4590-4ba7-b67c-8ef001187092'), AIMessage(content='The HR policy question is not explicitly covered in the available ...'output_tokens': 76, 'total_tokens': 616})]}
